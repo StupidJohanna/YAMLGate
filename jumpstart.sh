@@ -13,6 +13,6 @@ if [[ "$response" =~ ^[Yy]$ ]]; then
     systemctl daemon-reload
     systemctl enable yamlgate.service
     systemctl start yamlgate.service
-else
-    echo "You chose not to proceed."
 fi
+
+echo "YAMLGate has been installed."

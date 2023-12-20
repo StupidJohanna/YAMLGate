@@ -55,7 +55,7 @@ sudo make systemd_install # OPTIONAL: Turns YAMLGate into a Daemon
 
 Or use the one-line install:
 
-`curl | sh`
+`curl https://raw.githubusercontent.com/StupidJohanna/YAMLGate/master/jumpstart.sh | sh`
 
 
 The server will run on http://0.0.0.0:80 
