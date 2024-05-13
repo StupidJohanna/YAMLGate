@@ -57,6 +57,8 @@ Or use the one-line install:
 
 `curl https://raw.githubusercontent.com/StupidJohanna/YAMLGate/master/jumpstart.sh | sh`
 
+If you happen to have [Nixoid](https://github.com/stupidJohanna/nixoid) installed, you can run
+`nixoid install stupidjohanna/YAMLGate-nixoid-light`
 
 The server will run on http://0.0.0.0:80 
 
